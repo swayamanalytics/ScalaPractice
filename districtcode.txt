@@ -1,0 +1,1316 @@
+C:\Users\Sourav\AppData\Local\Programs\Python\Python35\python.exe C:/Users/Sourav/PycharmProjects/Vehicleloader/FetchingandLoading/Fetching.py
+['AN-01']  Andaman district
+['AN-02']  Nicobar district
+['AP-02']  Anantapur district
+['AP-03']  Chittoor district
+['AP-04']  YSR Kadapa district
+['AP-05']  East Godavari district
+['AP-07']  Guntur district
+['AP-16']  Krishna district
+['AP-18']  Krishna district
+['AP-21']  Kurnool district
+['AP-26']  Nellore district
+['AP-27']  Prakasam district
+['AP-30']  Srikakulam district
+['AP-31', 'AP-32', 'AP-33', 'AP-34']  Visakhapatnam district
+['AP-37']  West Godavari district
+['AP-01']  Adilabad District
+['AP-09']  Hyderabad Central
+['AP-10']  Hyderabad North
+['AP-11']  Hyderabad East
+['AP-12']  Hyderabad West
+['AP-13']  Hyderabad South
+['AP-15']  Karimnagar District
+['AP-20']  Khammam District
+['AP-22']  Mahbubnagar District
+['AP-23']  Medak District
+['AP-24']  Nalgonda District
+['AP-25']  Nizamabad District
+['AP-28']  Rangareddy District
+['AP-29']  Medchal-Malkajgiri District
+['AP-36']  Warangal District
+['AP XX A 1234 to AP XX SZ 1234']  The letters A to S are reserved to passenger vehicles.
+['AP-18-Px : AP 18 P 1234', 'AP 18 PB 1234']  AP-18-P of Vijayawada is specifically used for state police vehicles.
+['AP XX T 1234 to AP XX YZ 1234']  The letters T, U, V, W, X, Y are reserved for commercial vehicles.
+['AP-xx-Z : AP XX Z 1234 to AP XX ZZ 1234']  The letter Z is reserved for the State Road Transport (APSRTC) buses.
+['AR-01', 'AR-02']  Papum Pare district
+['AR-03']  Tawang district
+['AR-04']  West Kameng district
+['AR-05']  East Kameng district
+['AR-06']  Lower Subansiri district
+['AR-07']  Upper Subansiri district
+['AR-08']  West Siang district
+['AR-09']  East Siang district
+['AR-10']  Dibang Valley district
+['AR-11']  Lohit district
+['AR-12']  Changlang district
+['AR-13']  Tirap district
+['AR-14']  Upper Siang district
+['AR-15']  Kurung Kumey district
+['AR-16']  Dibang Valley district
+['AR-17']  Anjaw district
+['AR-20']  Namsai district
+['BR-01']  Patna district
+['BR-02']  Gaya district
+['BR-03']  Bhojpur district
+['BR-04']  Saran district
+['BR-05']  East Champaran district
+['BR-06']  Muzaffarpur district
+['BR-07']  Darbhanga district
+['BR-08']  Munger district
+['BR-09']  Begusarai district
+['BR-10']  Bhagalpur district
+['BR-11']  Purnia district
+['BR-13']  NA
+['BR-14']  NA
+['BR-15']  NA
+['BR-16']  NA
+['BR-17']  NA
+['BR-18']  NA
+['BR-19']  Saharsa district
+['BR-20']  NA
+['BR-21']  Nalanda district
+['BR-22']  West Champaran district
+['BR-23']  NA
+['BR-24']  Rohtas district
+['BR-25']  Jehanabad district
+['BR-26']  Aurangabad district
+['BR-27']  Nawada district
+['BR-28']  Gopalganj district
+['BR-29']  Siwan district
+['BR-30']  Sitamarhi district
+['BR-31']  Vaishali district
+['BR-32']  Madhubani district
+['BR-33L 1352']  Samastipur district
+['BR-34']  Khagaria district
+['BR-35']  NA
+['BR-36']  NA
+['BR-37']  Kishanganj district
+['BR-38']  Araria district
+['BR-39']  Katihar district
+['BR-40']  NA
+['BR-41']  NA
+['BR-42']  NA
+['BR-43']  Madhepura district
+['BR-44']  Buxar district
+['BR-45']  Kaimur district
+['BR-46']  Jamui district
+['BR-47']  NA
+['BR-50']  Supaul district
+['BR-51']  Banka district
+['BR-52']  Sheikhpura district
+['BR-53']  Lakhisarai district
+['BR-55']  Sheohar district
+['BR-56']  Arwal district
+['BR-57']  Rohtas district
+['CG-01']  NA
+['CG-02']  NA
+['CG-03']  NA
+['CG-04']  Raipur district
+['CG-05']  Dhamtari district
+['CG-06']  Mahasamund district
+['CG-07']  Durg district
+['CG-08']  Rajnandgaon district
+['CG-09']  Kabirdham district
+['CG-10']  Bilaspur district
+['CG-11']  Janjgir–Champa district
+['CG-12']  Korba district
+['CG-13']  Raigarh district
+['CG-14']  Jashpur district
+['CG-15']  Surguja district
+['CG-16']  Koriya district
+['CG-17']  Bastar district
+['CG-18']  Dantewada district
+['CG-19']  Kanker district
+['CG-20']  Bijapur district, Chhattisgarh
+['CG-21']  Narayanpur district
+['CG-22']  Baloda Bazar district
+['CG-23']  Gariaband district
+['CG-24']  Balod district
+['CG-25']  Bemetara district
+['CG-26']  Sukma district
+['CG-27']  Kondagaon district
+['CG-28']  Mungeli district
+['CG-29']  Surajpur district
+['CG-30']  Balrampur district
+['CH-01', 'CH-02', 'CH-03', 'CH-04']  Chandigarh district
+['DD-02']  Diu district
+['DD-03']  Daman district
+['DL-1']  North District:
+Civil Lines, Pratap Bagh, Kotwali, Bela Road, Andha Mugal, Mori Gate, Majnu Ka Tila, Gulabi Bagh, Red Fort, Sant Nagar, Sarai Rohilla, Yamuna Bazar, Roop Nagar, Inder Lok, Lahori Gate, Maurice Nagar, Sadar Bazar, Church Mission, Shakti Nagar, Ahata Kedara, Town Hall, Subzi Mandi, Bara Hindu Rao, Nai Sarak, Tis Hazari, Kashmere Gate, Chandni Chowk
+
+['DL-2']  New Delhi District:
+Tilak Marg, R.M.L.Hospital, Chanakya Puri, Parliament St., Sucheta Kriplani Hospital, Tughlaq Road, Boat Club, Mandi House, North Avenue Panchkuian Road, Kali Bari Marg, South Avenue, Gole Market, Rabinder Nagar, Malcha Marg, Connaught Place, Kaka Nagar
+
+['DL-3']  South District:
+Hauz Khas, Amar Colony, C.R Park, Malviya Nagar, Garhi, Ambedkar Nagar, Saket, Okhla, Madangir,Pushp Vihar, Sunlight Colony, Sainik Farm, Mehrauli, New Friends Colony, Kalkaji, Defence Colony, Nehru Place, Gulmohar Park, Sukhdev Vihar, Badarpur, AIIMS, Bharat Nagar, Sarita Vihar, Lodhi Colony, Hz.Nizammudin, Sangam Vihar, Pragati Vihar, Jangpura, East Kidwai Nagar, Khan Pur, Sarai Kale Khan, Lajpat Nagar, Greater Kailash, Panchsheel
+
+['DL-4']  West District I:
+Janakpuri, Vikaspuri, Keshopur, TilakNagar, Uttam Nagar, Mohan Garden, Nawada, Kakrola, Paschim Vihar, Meera Bagh, New Multan Nagar, Nangloi, Tikri Border, Nilothi, Nangloi Jat, Mundka, Baprola, Hari Nagar, Ashok Nagar, Prem Nagar, Subhash Nagar
+
+['DL-6']  Central District:
+Daryaganj, Lalkuan, Prasha Nagar, Chandni Mahal, I.P. Estate, Rajender Nagar, Turkmangate, LNJP Hospital, Pusa Road, Jama Masjid, Pahar Ganj, Sita Ram Bazar, Kamla Market, DBG Road, Sangtrashan, Shahganj, Shidipura, Nabi Karim, Hauz Qazi, Govt. Qr. Devnagar, Ballimaran, Karol Bagh
+
+['DL-7']  East District I:
+KalyanPuri, Laxmi Nagar, PreetVihar, New Ashok Nagar, Patparganj, Shakarpur, Trilokpuri, Mayur Vihar-I&II, Karkardooma
+
+['DL-8']  North West District I:
+Model Town, Jahangirpuri, Sangam Park, Adarsh Nagar, Vijay Nagar, Keshav Puram, Ashok Vihar, Shalimar Bagh, Wazirpur, Saraswati Vihar, Kingsway Camp, Pitampura, Mukherjee Nagar, Rani Bagh, Azadpur, Rampura, Tri Nagar, Gujrawalan
+
+['DL-9']  South West District I:
+Inderpuri, Naraina, Mayapuri, Najafgarh, Kapashera, Zafarpur Kalan, Dwaraka, Vasant Vihar, R.K.Puram, Sarojini Nagar, Vasant Kunj, Delhi Cantt., Dabri
+
+['DL-10']  West District II:
+Anand Parbat, Moti Nagar, Patel Nagar, Punjabi Bagh, Kirti Nagar Rajouri Garden
+
+['DL-11']  North West District II:
+Sultanpuri, Mangolpuri, Samaypur Badli, Prasant Vihar, Auchandi Border, Bawana, Alipur, Rohini, Kanjhavala, Narela, Kirari, Aman Vihar, Mubarakpur, Qutab Garh, Jonti, Mungeshpur, Mukandpur, Khera Kalan
+
+['DL-12']  South West District II:
+Delhi Cantt.,Vasant Vihar,Vasant Kunj, Munirka, Sarojini Nagar, Nauroji Nagar, IIT, Green Park, Ghitorni, Mahipal Pur
+
+['DL-13']  East District II:
+Gazipur, GandhiNagar, Krishna Nagar, Anand Vihar, Old Seelampur, Mandawali, New Shahdara, Geeta Colony, VivekVihar, Jheel
+
+['DL-14']  NA
+['DL-15']  NA
+['DL-16']  NA
+['DL-17']  NA
+['DL-18']  NA
+['DL-30']  NA
+['DL-1A', 'DL-2A', 'DL-3A', 'DL-4A', 'DL-5A', 'DL-6A', 'DL-7A', 'DL-8A', 'DL-9A', 'DL-10A', 'DL-11A', 'DL-12A', 'DL-13A', 'DL-14A', 'DL-15A', 'DL-16A', 'DL-17A', 'DL-18A']  The letter A is reserved to ambulances.
+['DL-1C', 'DL-2C', 'DL-3C', 'DL-4C', 'DL-5C', 'DL-6C', 'DL-7C', 'DL-8C', 'DL-9C', 'DL-10C', 'DL-11C', 'DL-12C', 'DL-13C', 'DL-14C', 'DL-15C', 'DL-16C', 'DL-17C', 'DL-18C']  The letter C is reserved to cars.
+['DL-1D', 'DL-2D', 'DL-3D', 'DL-4D', 'DL-5D', 'DL-6D', 'DL-7D', 'DL-8D', 'DL-9D', 'DL-10D', 'DL-11D', 'DL-12D', 'DL-13D', 'DL-14D', 'DL-15D', 'DL-16D', 'DL-17D', 'DL-18D']  The letter D is reserved to modified cars for disaabled.
+['DL-1E', 'DL-2E', 'DL-3E', 'DL-4E', 'DL-5E', 'DL-6E', 'DL-7E', 'DL-8E', 'DL-9E', 'DL-10E', 'DL-11E', 'DL-12E', 'DL-13E', 'DL-14E', 'DL-15E', 'DL-16E', 'DL-17E', 'DL-18E']  The letter E is reserved to tractors.
+['DL-1F', 'DL-2F', 'DL-3F', 'DL-4F', 'DL-5F', 'DL-6F', 'DL-7F', 'DL-8F', 'DL-9F', 'DL-10F', 'DL-11F', 'DL-12F', 'DL-13F', 'DL-14F', 'DL-15F', 'DL-16F', 'DL-17F', 'DL-18F']  The letter F is reserved to fancy numbers under special allocation.
+['DL-1G', 'DL-2G', 'DL-3G', 'DL-4G', 'DL-5G', 'DL-6G', 'DL-7G', 'DL-8G', 'DL-9G', 'DL-10G', 'DL-11G', 'DL-12G', 'DL-13G', 'DL-14G', 'DL-15G', 'DL-16G', 'DL-17G', 'DL-18G']  The letter G is reserved to trucks.
+['DL-1K', 'DL-2K', 'DL-3K', 'DL-4K', 'DL-5K', 'DL-6K', 'DL-7K', 'DL-8K', 'DL-9K', 'DL-10K', 'DL-11K', 'DL-12K', 'DL-13K', 'DL-14K', 'DL-15K', 'DL-16K', 'DL-17K', 'DL-18K']  The letter K is reserved to school vans.
+['DL-1L', 'DL-2L', 'DL-3L', 'DL-4L', 'DL-5L', 'DL-6L', 'DL-7L', 'DL-8L', 'DL-9L', 'DL-10L', 'DL-11L', 'DL-12L', 'DL-13L', 'DL-14L', 'DL-15L', 'DL-16L', 'DL-17L', 'DL-18L']  The letter L is reserved to trucks.
+['DL-1N', 'DL-2N', 'DL-3N', 'DL-4N', 'DL-5N', 'DL-6N', 'DL-7N', 'DL-8N', 'DL-9N', 'DL-10N', 'DL-11N', 'DL-12N', 'DL-13N', 'DL-14N', 'DL-15N', 'DL-16N', 'DL-17N', 'DL-18N']  The letter N is reserved to cars of non-resident Indians.
+['DL-1P', 'DL-2P', 'DL-3P', 'DL-4P', 'DL-5P', 'DL-6P', 'DL-7P', 'DL-8P', 'DL-9P', 'DL-10P', 'DL-11P', 'DL-12P', 'DL-13P', 'DL-14P', 'DL-15P', 'DL-16P', 'DL-17P', 'DL-18P']  The letter P is reserved to commercial buses.
+['DL-1Q', 'DL-2Q', 'DL-3Q', 'DL-4Q', 'DL-5Q', 'DL-6Q', 'DL-7Q', 'DL-8Q', 'DL-9Q', 'DL-10Q', 'DL-11Q', 'DL-12Q', 'DL-13Q', 'DL-14Q', 'DL-15Q', 'DL-16Q', 'DL-17Q', 'DL-18Q']  The letter Q is reserved to Phatphat Seva or para transit rural service vehicles.
+['DL-1R', 'DL-2R', 'DL-3R', 'DL-4R', 'DL-5R', 'DL-6R', 'DL-7R', 'DL-8R', 'DL-9R', 'DL-10R', 'DL-11R', 'DL-12R', 'DL-13R', 'DL-14R', 'DL-15R', 'DL-16R', 'DL-17R', 'DL-18R']  The letter R is reserved to auto rickshaws and radio taxis.
+['DL-1S', 'DL-2S', 'DL-3S', 'DL-4S', 'DL-5S', 'DL-6S', 'DL-7S', 'DL-8S', 'DL-9S', 'DL-10S', 'DL-11S', 'DL-12S', 'DL-13S', 'DL-14S', 'DL-15S', 'DL-16S', 'DL-17S', 'DL-18S']  The letter S is reserved to two wheelers.
+['DL-1T', 'DL-2T', 'DL-3T', 'DL-4T', 'DL-5T', 'DL-6T', 'DL-7T', 'DL-8T', 'DL-9T', 'DL-10T', 'DL-11T', 'DL-12T', 'DL-13T', 'DL-14T', 'DL-15T', 'DL-16T', 'DL-17T', 'DL-18T']  The letter T is reserved to commercial taxis.
+['DL-1V', 'DL-2V', 'DL-3V', 'DL-4V', 'DL-5V', 'DL-6V', 'DL-7V', 'DL-8V', 'DL-9V', 'DL-10V', 'DL-11V', 'DL-12V', 'DL-13V', 'DL-14V', 'DL-15V', 'DL-16V', 'DL-17V', 'DL-18V']  The letter V is reserved to Delhi Metro Rail Corporation feeder buses and commercial vans.
+['DL-1W', 'DL-2W', 'DL-3W', 'DL-4W', 'DL-5W', 'DL-6W', 'DL-7W', 'DL-8W', 'DL-9W', 'DL-10W', 'DL-11W', 'DL-12W', 'DL-13W', 'DL-14W', 'DL-15W', 'DL-16W', 'DL-17W', 'DL-18W']  The letter W is reserved to para transit small vehicles under Metro feeder service.
+['DL-1Y', 'DL-2Y', 'DL-3Y', 'DL-4Y', 'DL-5Y', 'DL-6Y', 'DL-7Y', 'DL-8Y', 'DL-9Y', 'DL-10Y', 'DL-11Y', 'DL-12Y', 'DL-13Y', 'DL-14Y', 'DL-15Y', 'DL-16Y', 'DL-17Y', 'DL-18Y']  The letter Y is reserved to commercial private taxis.
+['DN-09']  Dadra & Nagar Haveli union territory
+['GA-01']  North Goa district
+['GA-02']  South Goa district
+['GA-03']  Bardez taluka
+['GA-04']  Bicholim taluka, Sattari taluka
+['GA-05']  Ponda taluka
+['GA-06']  Mormugao taluka
+['GA-07']  Tiswadi taluka
+['GA-08']  Salcette taluka
+['GA-09']  Quepem taluka, Sanguem taluka
+['GA-10']  Canacona taluka
+['GA-11']  Pernem taluka
+['GA-12']  Dharbandora taluka
+['GJ-1']  parts of Ahmedabad district
+['GJ-3']  Rajkot district
+['GJ-4']  Bhavnagar district
+['GJ-5']  parts of Surat district
+['GJ-6']  parts of Vadodara district
+['GJ-7']  Kheda district
+['GJ-8']  Banaskantha district
+['GJ-9']  Sabarkantha district
+['GJ-10']  Jamnagar district
+['GJ-11']  Junagadh district
+['GJ-12']  parts of Kutch District
+['GJ-13']  Surendranagar district
+['GJ-14']  Amreli district
+['GJ-15']  Valsad district
+['GJ-16']  Bharuch district
+['GJ-17']  Panchmahal district
+['GJ-18']  Gandhinagar district
+['GJ-19']  parts of Surat district
+['GJ-20']  Dahod district
+['GJ-21']  Navsari district
+['GJ-22']  Narmada district
+['GJ-23']  Anand district
+['GJ-24']  Patan district
+['GJ-25']  Porbandar district
+['GJ-26']  Tapi district
+['GJ-27']  parts of Ahmedabad district
+['GJ-28']  parts of Surat district
+['GJ-29']  parts of Vadodara district
+['GJ-30']  Dang district
+['GJ-32']  Gir Somnath district
+['GJ-33']  Botad district
+['GJ-34']  Chhota Udaipur district
+['GJ-35']  Mahisagar district
+['GJ-36']  Morbi district
+['GJ-37']  Devbhoomi Dwarka district
+['HP-01', 'HP-02']  Statewide (tourist buses & taxis)
+['HP-03']  Shimla – Urban
+['HP-04']  Dharamsala
+['HP-05']  Mandi
+['HP-06']  Rampur
+['HP-07']  Shimla
+['HP-08']  Chaupal
+['HP-09']  Theog
+['HP-10']  Rohru
+['HP-11']  Arki
+['HP-12']  Nalagarh
+['HP-13']  Kandaghat
+['HP-14']  Solan
+['HP-15']  Parwanoo
+['HP-16']  Rajgarh
+['HP-17']  Paonta Sahib
+['HP-18']  Nahan
+['HP-19']  Amb
+['HP-20']  Una
+['HP-21']  Barsar, Hamirpur
+['HP-22']  Hamirpur
+['HP-23']  Ghumarwin
+['HP-24']  Bilaspur
+['HP-25']  Reckong Peo
+['HP-26']  Nichar (Bhaba Nagar)
+['HP-27']  Poo
+['HP-28']  Sarkaghat
+['HP-29']  Jogindernagar
+['HP-30']  Karsog
+['HP-31']  Sundernagar
+['HP-32']  Gohar, Mandi
+['HP-33']  Mandi
+['HP-34']  Kullu
+['HP-35']  Anni, Kullu
+['HP-36']  Dehra
+['HP-37']  Palampur
+['HP-38']  Nurpur
+['HP-39']  Dharamshala
+['HP-40']  Kangra
+['HP-41']  Kaza
+['HP-42']  Keylong
+['HP-43']  Udaipur
+['HP-44']  Churah
+['HP-45']  Pangi
+['HP-46']  Bharmour
+['HP-47']  Dalhousie
+['HP-48']  Chamba
+['HP-49']  Banjar
+['HP-50']  Shimla (auto-rikshaws)
+['HP-51', 'HP-52']  Shimla (urban)
+['HP-53']  Baijnath
+['HP-54']  Jawali
+['HP-55']  Nadaun / Hamirpur
+['HP-56']  Jaisinghpur
+['HP-57']  Chowari
+['HP-58']  Manali
+['HP-59']  Solan
+['HP-60']  Hamirpur
+['HP-61']  Kullu
+['HP-62', 'HP-63']  Shimla (rural)
+['HP-64']  Solan
+['HP-65']  Mandi
+['HP-66']  Kullu
+['HP-67']  Hamirpur
+['HP-68']  Dharmsala
+['HP-69', 'HP-70']  Bilaspur
+['HP-71']  Nahan
+['HP-72']  Una
+['HP-73']  Chamba
+['HP-74']  Bhoranj, Hamirpur
+['HP-76']  Paddhar, Mandi
+['HP-77']  Dodra Kawar, Shimla
+['HP-78']  Bangana, Una
+['HP-79']  Sangrah, Sirmaur
+['HP-80']  Haroli, Una
+['HP-81']  Salooni (Dist. Chamba)
+['HP-82']  Mandi (rural)
+['HP-83']  Jawalaji, Kangra
+['HP-84']  Sujanpur Tihra, Hamirpur
+['HP-85']  Shillai, Sirmaur
+['HP-86']  Dharampur Distt Mandi
+['HR-01']  Ambala tehsil
+['HR-02']  NA
+['HR-03']  NA
+['HR-04']  Naraingarh tehsil
+['HR-05']  NA
+['HR-06']  NA
+['HR-07']  NA
+['HR-08']  NA
+['HR-09']  NA
+['HR-10']  NA
+['HR-11']  NA
+['HR-12']  NA
+['HR-13']  Bahadurgarh tehsil
+['HR-14']  Jhajjar tehsil, Matenhail tehsil
+['HR-15']  NA
+['HR-16']  Bhiwani tehsil
+['HR-17']  Siwani tehsil
+['HR-18']  Loharu tehsil
+['HR-19']  Dadri tehsil
+['HR-20']  Hisar tehsil
+['HR-21']  Hansi tehsil
+['HR-22']  Fatehabad tehsil
+['HR-23']  Tohana tehsil
+['HR-24']  NA
+['HR-25']  NA
+['HR-26']  NA
+['HR-27']  NA
+['HR-28']  NA
+['HR-29']  Ballabgarh tehsil
+['HR-30']  NA
+['HR-31']  Jind tehsil, Julana tehsil
+['HR-32']  Narwana tehsil
+['HR-33']  Safidon tehsil
+['HR-34']  NA
+['HR-35']  NA
+['HR-36']  NA
+['HR-37']  Ambala tehsil
+['HR-38']  Faridabad tehsil
+['HR-39']  Hisar tehsil
+['HR-40']  NA
+['HR-41']  NA
+['HR-42']  NA
+['HR-43']  NA
+['HR-44']  NA
+['HR-45']  NA
+['HR-46']  NA
+['HR-47']  NA
+['HR-48']  Tosham tehsil, Bawani Khera tehsil
+['HR-49']  NA
+['HR-50']  NA
+['HR-51']  Faridabad tehsil
+['HR-52']  NA
+['HR-53']  Adampur tehsil
+['HR-54']  NA
+['HR-55']  NA
+['HR-56']  Jind tehsil, Julana tehsil
+['HR-57']  NA
+['HR-58']  NA
+['HR-59']  Ratia tehsil
+['HR-60']  NA
+['HR-61']  Bhiwani tehsil
+['HR-62']  Fatehabad tehsil
+['HR-63']  Jhajjar tehsil, Matenhail tehsil
+['HR-64']  NA
+['HR-65']  NA
+['HR-66']  NA
+['HR-67']  NA
+['HR-68']  NA
+['HR-69']  NA
+['HR-70']  Chandigarh
+['HR-71']  NA
+['HR-72']  NA
+['HR-73']  NA
+['HR-74']  NA
+['HR-75']  NA
+['HR-76']  NA
+['HR-77']  Beri tehsil
+['HR-78']  NA
+['HR-79']  NA
+['HR-80']  Barwala tehsil, Narnaund tehsil
+['HR-81']  NA
+['HR-83']  NA
+['HR-85']  NA
+['HR-86']  NA
+['HR-88']  NA
+['HR-99']  NA
+['JH-01']  Ranchi / Khunti
+['JH-02']  Hazaribagh / Ramgarh
+['JH-03']  Daltonganj
+['JH-04']  Dumka
+['JH-05']  Jamshedpur
+['JH-06']  Chaibasa
+['JH-07']  Gumla
+['JH-08']  Lohardaga
+['JH-09']  Bokaro
+['JH-10']  Dhanbad
+['JH-11']  Giridih
+['JH-12']  Koderma
+['JH-13']  Chatra
+['JH-14']  Garhwa
+['JH-15']  Deoghar
+['JH-16']  Pakur
+['JH-17']  Godda
+['JH-18']  Sahibganj
+['JH-19']  Latehar
+['JH-20']  Simdega
+['JH-21']  Jamtara
+['JH-22']  Saraikela-khrshawan
+['JH-23']  Khunti
+['JH-24']  Ramgarh
+['JK-01']  Srinagar
+['JK-02']  Jammu
+['JK-03']  Anantnag
+['JK-04']  Budgam
+['JK-05']  Baramulla
+['JK-06']  Doda
+['JK-07']  Kargil
+['JK-08']  Kathua
+['JK-09']  Kupwara
+['JK-10']  Leh
+['JK-11']  Rajouri
+['JK-12']  Poonch
+['JK-13']  Pulwama
+['JK-14']  Udhampur
+['JK-15']  Bandipora
+['JK-16']  Ganderbal
+['JK-17']  Kishtwar
+['JK-18']  Kulgam
+['JK-19']  Ramban
+['JK-20']  Reasi
+['JK-21']  Samba
+['JK-22']  Shopian
+['JK-**-Y']  J&KSRTC Buses
+['KA-01']  Bengaluru Central, Koramangala – 560034
+Most KSRTC, BMTC and Government vehicles are also registered here.
+
+['KA-02']  Bengaluru West, Rajajinagar – 560010
+['KA-03']  Bengaluru East, Indiranagar – 560038
+['KA-04']  Bengaluru North, Yeshwanthpur – 560022
+['KA-05']  Bengaluru South, Jayanagar 4th block – 560011
+['KA-06']  Tumakuru – 572101
+['KA-07']  Kolar – 563101
+['KA-08']  Kolar Gold Fields (KGF)
+['KA-09']  Mysuru West – 570001
+['KA-10']  Chamarajanagar – 571313
+['KA-11']  Mandya – 571401
+['KA-12']  Madikeri – 571201
+['KA-13']  Hassan – 573201
+['KA-14']  Shivamogga – 577201
+['KA-15']  Sagara – 577401
+['KA-16']  Chitradurga – 577501
+['KA-17']  Davangere – 577001
+['KA-18']  Chikkamagaluru – 577101
+['KA-19']  Mangaluru – 575001
+['KA-20']  Udupi – 576101
+['KA-21']  Puttur – 574201
+['KA-22']  Belagavi – 590001
+['KA-23']  Chikkodi – 591201
+['KA-24']  Bailhongal – 591102
+['KA-25']  Dharwad – 580001
+['KA-26']  Gadag – 582121
+['KA-27']  Haveri – 581110
+['KA-28']  Bijapur – 586101
+['KA-29']  Bagalkote – 587101
+['KA-30']  Karwar – 581301
+['KA-31']  Sirsi – 581401
+['KA-32']  Gulbarga s– 585101
+['KA-33']  Yadgir – 585201
+['KA-34']  Ballari – 583103
+['KA-35']  Hospet – 583201
+['KA-36']  Raichur – 584101
+['KA-37']  Koppal – 583231
+['KA-38']  Bidar – 585401
+['KA-39']  Bhalki – 585328
+['KA-40']  Chikkaballapur – 562101
+['KA-41']  Bengaluru Western Suburbs: Kengeri – 560060
+['KA-42']  Ramanagaram – 562159
+['KA-43']  Devanahalli – Kempegowda International Airport, Bengaluru Rural District – 560300
+['KA-44']  Tiptur – 572201, Tumakuru District
+['KA-45']  Hunsur – 571105, Mysore District
+['KA-46']  Sakleshpur – 573134, Hassan District
+['KA-47']  Honnavar – 581334
+['KA-48']  Jamkhandi – 587301
+['KA-49']  Gokak – 591307
+['KA-50']  Bengaluru Northern Suburbs: Yelahanka – 560106. BMTC buses are also registered here
+['KA-51']  Bengaluru Southern Suburbs: Electronics City (BTM 4th Stage) – 560076
+['KA-52']  Nelamangala, Bengaluru Rural District – 562123
+['KA-53']  Bengaluru Eastern Suburbs: Krishnarajapuram – 560049. BMTC vehicles are also registered here.
+['KA-54']  Nagamangala – 571432, Mandya District
+['KA-55']  Mysuru East – 570019
+['KA-56']  Basavakalyan – 585327
+['KA-57']  Shantinagar, Bengaluru Urban District – 560027
+Only for KSRTC, BMTC in KA-57F series[1]
+
+['KA-61']  Marathahalli, Bengaluru Urban District (Yet to be allotted)
+['KA-62']  Surathkal, Mangaluru (Yet to be allotted)
+['KA-63']  Hubli @Dharwad East– 580026
+['KA-64']  Madhugiri, Tumakuru District – 572132
+['KA-65']  Dandeli, Uttara Kannada District – 581325
+['KA-66']  Tarikere – 577228, Chikkamagaluru District
+['KA-67']  Sedam – 585222, Gulbarga District (Yet to be allotted) [2]
+['KA-68']  Chintamani, Chikkaballapur District – 563125 (Yet to be allotted)
+['KA-69']  Ranebennuru, Haveri District – 581115 (Yet to be allotted)
+['KA-70']  Bantwal, Dakshina Kannada District – 574211 (Yet to be allotted)
+['KA-##-F', 'KA-##-FA', 'KA-57-F']  Karnataka State Road Transport Corporation and BMTC vehicles
+['KA-##-G', 'KA-##-GA', 'KA-##-GZ']  Government of Karnataka
+['KL-01']  Thiruvananthapuram
+['KL-02']  Kollam
+['KL-03']  Pathanamthitta
+['KL-04']  Alappuzha
+['KL-05']  Kottayam
+['KL-06']  Idukki
+['KL-07']  Ernakulam
+['KL-08']  Thrissur
+['KL-09']  Palakkad
+['KL-10']  Malappuram
+['KL-11']  Kozhikode
+['KL-12']  Wayanad
+['KL-13']  Kannur
+['KL-14']  Kasargod
+['KL-15']  Kerala State Road Transport Corporation buses
+['KL-16']  Attingal
+['KL-17']  Muvattupuzha
+['KL-18']  Vatakara
+['KL-19']  Parassala
+['KL-20']  Neyyattinkara
+['KL-21']  Nedumangad
+['KL-22']  Kazhakkoottam / Thiruvananthapuram
+['KL-23']  Karunagapally
+['KL-24']  Kottarakara
+['KL-25']  Punalur
+['KL-26']  Adoor
+['KL-27']  Thiruvalla
+['KL-28']  Mallappally
+['KL-29']  Kayamkulam
+['KL-30']  Chengannur
+['KL-31']  Mavelikara
+['KL-32']  Cherthala
+['KL-33']  Changanassery
+['KL-34']  Kanjirappally
+['KL-35']  Pala
+['KL-36']  Vaikom
+['KL-37']  Vandiperiyar
+['KL-38']  Thodupuzha
+['KL-39']  Thripunithura
+['KL-40']  Perumbavoor
+['KL-41']  Aluva
+['KL-42']  North Paravur
+['KL-43']  Mattancherry
+['KL-44']  Kothamangalam
+['KL-45']  Irinjalakuda
+['KL-46']  Guruvayur
+['KL-47']  Kodungallur
+['KL-48']  Wadakkancherry
+['KL-49']  Alathur
+['KL-50']  Mannarghat
+['KL-51']  Ottappalam
+['KL-52']  Pattambi
+['KL-53']  Perinthalmanna
+['KL-54']  Ponnani
+['KL-55']  Tirur
+['KL-56']  Koyilandy
+['KL-57']  Koduvally
+['KL-58']  Thalassery
+['KL-59']  Thaliparamba
+['KL-60']  Kanhangad
+['KL-61']  Kunnathur
+['KL-62']  Ranni
+['KL-63']  Angamaly
+['KL-64']  Chalakkudy
+['KL-65']  Thirurangadi
+['KL-66']  Kuttanadu
+['KL-67']  Uzhavoor
+['KL-68']  Devikulam
+['KL-69']  Nedumkandam
+['KL-70']  Chittur
+['KL-71']  Nilambur
+['KL-72']  Mananthavady
+['KL-73']  Sulthan Bathery
+['LD-01']  Kavaratti
+['LD-02']  Agatti
+['LD-03']  Amini
+['LD-04']  Androth
+['LD-05']  Kadmat
+['LD-05']  Kiltan
+['LD-07']  Chetlat
+['LD-08']  Kalpeni
+['LD-09']  Minicoy
+['MH-01']  Mumbai (South) – RTO is located in Tardeo. BEST, MCGM and Mumbai Police vehicles are also registered here
+['MH-02']  Mumbai (West) – RTO is located in Andheri
+['MH-03']  Mumbai (East) – RTO is located in Wadala. Branch in Worli
+['MH-04']  Thane. Branch in Murphy Colony.
+Also MSRTC buses are registered here.
+['MH-05']  Kalyan-Dombivali, Ulhasnagar, Ambernath and Badlapur – RTO is located in Kalyan
+['MH-06']  Raigad – RTO is located in Pen (does not include Navi Mumbai, Kharghar, Panvel, Khopoli)
+Also MSRTC buses are registered here.
+['MH-07']  Sindhudurg – RTO is located in Sindhudurg Nagari
+Also MSRTC buses are registered here.
+['MH-08']  Ratnagiri
+['MH-09']  Kolhapur
+['MH-10']  Sangli-Miraj-Kupwad
+['MH-11']  Satara
+Also MSRTC buses are registered here.
+['MH-12']  Pune (city). Branch in Yerwada.
+Also MSRTC buses are registered here.
+['MH-13']  Solapur (city)
+['MH-14']  Pimpri-Chinchwad
+Also MSRTC buses are registered here.
+['MH-15']  Nashik (city)
+['MH-16']  Ahmednagar District (South)
+['MH-17']  Ahmednagar District (North)
+['MH-18']  Dhule
+['MH-19']  Jalgaon
+['MH-20']  Aurangabad – RTO is located on Station Road
+Also MSRTC buses are registered here.
+['MH-21']  Jalna (city)
+['MH-22']  Parbhani
+['MH-23']  Beed
+['MH-24']  Latur RTO located in Babhalgaon Road
+['MH-25']  Osmanabad
+['MH-26']  Nanded
+['MH-27']  Amravati
+['MH-28']  Buldhana
+['MH-29']  Yavatmal – RTO is located on Nagpur Road
+['MH-30']  Akola – RTO is located on Dabki Road - 444002
+['MH-31']  Nagpur West - RTO is Located at Amravati Road
+Also MSRTC buses are registered here.
+['MH-32']  Wardha
+['MH-33']  Gadchiroli
+['MH-34']  Chandrapur
+['MH-35']  Gondia
+['MH-36']  Bhandara
+['MH-37']  Washim
+['MH-38']  Hingoli
+['MH-39']  Nandurbar
+['MH-40']  Nagpur (Rural)
+Also MSRTC buses are registered here.
+['MH-41']  Malegaon, Nashik District
+['MH-42']  Baramati, Pune
+['MH-43']  Navi Mumbai – RTO at Vashi
+['MH-44']  Ambejogai RTO located on Latur Road
+['MH-45']  Akluj
+['MH-46']  Panvel also MSRTC buses are registered here
+['MH-47']  Mumbai North
+['MH-48']  Virar
+['MH-49']  Nagpur East – RTO is located on Bhandara Road
+['MH-50']  Karad (Satara Rural) – RTO is located in Karad
+['MH-51']  Nashik Rural
+['MH-52']  [Kanwati) – RTO is located in Nanded Districts
+['MH-53']  Nanded South
+['MH-54']  Pune South
+['ML-01']  ML government vehicles
+['ML-02']  ML police vehicles
+['ML-03']  Vehicles
+['ML-04']  Jaintia Hills
+['ML-05']  Shillong
+['ML-06']  West Khasi Hills
+['ML-07']  East Garo Hills
+['ML-08']  West Garo Hills(Tura)
+['ML-09']  South Garo Hills
+['ML-10']  Ri-Bhoi
+['MN-01']  Imphal West
+['MN-02']  Churachandpur
+['MN-03']  Kangpokpi
+['MN-04']  Thoubal
+['MN-05']  Bishnupur
+['MN-06']  Imphal East
+['MN-07']  Ukhrul
+['MP-01']  State Governor's Vehicle
+['MP-02']  MP Government Vehicles
+['MP-03']  MP Police Vehicle
+['MP-04']  Bhopal
+['MP-05']  Hoshangabad
+['MP-06']  Morena
+['MP-07']  Gwalior
+['MP-08']  Guna
+['MP-09']  Indore
+['MP-10']  Kahrgone (west Nimar)
+['MP-11']  Dhar
+['MP-12']  Khandwa (East Nimar)
+['MP-13']  Ujjain
+['MP-14']  Mandsaur
+['MP-15']  Sagar
+['MP-16']  Chhatarpur
+['MP-17']  Rewa
+['MP-18']  Shahdol
+['MP-19']  Satna
+['MP-20']  Jabalpur
+['MP-21']  Katni
+['MP-22']  Seoni
+['MP-23']  Raipur
+['MP-24']  Durg
+['MP-25']  Jagdalpur (not in use)
+['MP-26']  Bilaspur (not in use)
+['MP-27']  Ambikapur (not in use)
+['MP-28']  Chhindwara
+['MP-29']  Rajnandgaon(not in use)
+['MP-30']  Bhind
+['MP-31']  Sheopur
+['MP-32']  Datia
+['MP-33']  Shivpuri
+['MP-34']  Damoh
+['MP-35']  Panna
+['MP-36']  Tikamgarh
+['MP-37']  Sehore
+['MP-38']  Raisen
+['MP-39']  Rajgarh
+['MP-40']  Vidisha
+['MP-41']  Dewas
+['MP-42']  Shajapur
+['MP-43']  Ratlam
+['MP-44']  Neemuch
+['MP-45']  Jhabua
+['MP-46']  Badwani
+['MP-47']  Harda
+['MP-48']  Betul
+['MP-49']  Narsinghpur
+['MP-50']  Balaghat
+['MP-51']  Mandla
+['MP-52']  Dindori
+['MP-53']  Sidhi
+['MP-54']  Umaria
+['MP-55']  YTB
+['MP-56']  YTB
+['MP-57']  YTB
+['MP-58']  YTB
+['MP-59']  YTB
+['MP-60']  YTB
+['MP-61']  YTB
+['MP-62']  YTB
+['MP-63']  YTB
+['MP-64']  YTB
+['MP-65']  Anuppur
+['MP-66']  Singrauli (Waidhan)
+['MP-67']  Ashoknagar
+['MP-68']  Burhanpur
+['MP-69']  Alirajpur
+['MP-70']  Agar / Malwa
+['MZ-01']  Aizawl
+['MZ-02']  Lunglei
+['MZ-03']  Saiha
+['MZ-04']  Champhai
+['MZ-05']  Kolasib
+['MZ-06']  Serchhip
+['MZ-07']  Lawngtlai
+['MZ-08']  Mamit
+['NL-01']  Kohima
+['NL-02']  Mokokchung
+['NL-03']  Tuensang
+['NL-04']  Mon
+['NL-05']  Wokha
+['NL-06']  Zunheboto
+['NL-07']  Dimapur
+['NL-08']  Phek
+['OD-01', 'OR-01']  Balasore
+['OD-02', 'OR-02']  Kurdha-I
+['OD-03', 'OR-03']  Bolangir
+['OD-04', 'OR-04']  Chandikhol
+['OD-05', 'OR-05']  Cuttack
+['OD-06', 'OR-06']  Dhenkanal
+['OD-07', 'OR-07']  Ganjam
+['OD-08', 'OR-08']  Kalahandi
+['OD-09', 'OR-09']  Keonjhar
+['OD-10', 'OR-10']  Koraput
+['OD-11', 'OR-11']  Mayurbhanj
+['OD-12', 'OR-12']  Phulabani Khandamal
+['OD-13', 'OR-13']  Puri
+['OD-14', 'OR-14']  Rourkela
+['OD-15', 'OR-15']  Sambalpur
+['OD-16', 'OR-16']  Sundergarh
+['OD-17', 'OR-17']  Baragarh
+['OD-18', 'OR-18']  Rayagada
+['OD-19', 'OR-19']  Angul
+['OD-20', 'OR-20']  Gajapati
+['OD-21', 'OR-21']  Jagatsinghpur
+['OD-22', 'OR-22']  Bhadrak
+['OD-23', 'OR-23']  Jharsuguda
+['OD-24', 'OR-24']  Nabarangpur
+['OD-25', 'OR-25']  Nayagarh
+['OD-26', 'OR-26']  Nuapada
+['OD-27', 'OR-27']  Boudh
+['OD-28', 'OR-28']  Debagarh
+['OD-29', 'OR-29']  Kendrapara
+['OD-30', 'OR-30']  Malkangiri
+['OD-31', 'OR-31']  Subarnapur district
+['OD-32']  Bhanjanagar
+['OD-33']  Bhubaneswar-II
+['OD-34']  Jajpur
+['OD-35']  Talcher
+['PB-01']  Chandigarh taxi vehicles from Punjab
+['PB-02']  Amritsar
+['PB-03']  Bathinda
+['PB-04']  Faridkot
+['PB-05']  Ferozepur
+['PB-06']  Gurdaspur
+['PB-07']  Hoshiarpur
+['PB-08']  Jalandhar
+['PB-09']  Kapurthala
+['PB-10']  Ludhiana
+['PB-11']  Patiala (city)
+['PB-12']  Ropar
+['PB-13']  Sangrur
+['PB-14']  Ajnala
+['PB-15']  Abohar
+['PB-16']  Anandpur Sahib
+['PB-17']  Baba Bakala
+['PB-18']  Batala
+['PB-19']  Barnala
+['PB-20']  Balachaur
+['PB-21']  Dasuya
+['PB-22']  Fazilka
+['PB-23']  Fatehgarh Sahib
+['PB-24']  Garhshankar
+['PB-25']  Jagraon
+['PB-26']  Khanna
+['PB-27']  Kharar
+['PB-28']  Malerkotla
+['PB-29']  Moga
+['PB-30']  Muktsar
+['PB-31']  Mansa
+['PB-32']  Nawanshahar
+['PB-33']  Nakodar
+['PB-34']  Nabha (Patiala South West)
+['PB-35']  Pathankot
+['PB-36']  Phagwara
+['PB-37']  Phillaur
+['PB-38']  Patti
+['PB-39']  Rajpura (Patiala North)
+['PB-40']  Rampura Phul
+['PB-41']  Sultanpur Lodhi
+['PB-42']  Samana (Patiala East)
+['PB-43']  Samrala
+['PB-44']  Sunam
+['PB-45']  Talwandi Sabo
+['PB-46']  Tarn Taran
+['PB-47']  Zira
+['PB-48']  Amloh (Patiala West)
+['PB-49']  Khamanon
+['PB-50']  Budhlada
+['PB-51']  Jhunir / Sardulgarh
+['PB-52']  Bassi Pathana
+['PB-53']  Malout
+['PB-54']  Mukerian
+['PB-55']  Payal
+['PB-56']  Raikot
+['PB-57']  Bhulath
+['PB-58']  Dera Baba Nanak
+['PB-59']  Dhuri
+['PB-60']  Gidderbaha
+['PB-61']  Jalalabad
+['PB-62']  Jaitu
+['PB-63']  Khadoor Sahib
+['PB-64']  Moonak
+['PB-65']  Mohali
+['PB-66']  Nihal Singh Wala
+['PB-67']  Shahkot
+['PB-68']  Dhar Kalan (District Pathankot)
+['PB-69']  Bagha Purana
+['PB-70']  Dera Bassi
+['PB-71']  Chamkaur Sahib
+['PB-72']  Pattran (Patiala East)
+['PB-73']  Tappa Mandi
+['PB-74']  Nangal
+['PB-75']  Lehragaga
+['PB-76']  Ahmedgarh
+['PB-77']  Guru Har Sahai
+['PY-01']  Puducherry
+['PY-02']  Karaikal
+['PY-03']  Mahe
+['PY-04']  Yanam
+['PY-05']  Oulgaret
+['RJ-01']  Ajmer
+['RJ-02']  Alwar
+['RJ-03']  Banswara
+['RJ-04']  Barmer
+['RJ-05']  Bharatpur
+['RJ-06']  Bhilwara
+['RJ-07']  Bikaner
+['RJ-08']  Bundi
+['RJ-09']  Chittaurgarh
+['RJ-10']  Churu
+['RJ-11']  Dholpur
+['RJ-12']  Dungarpur
+['RJ-13']  Sri Ganganagar
+['RJ-14']  Jaipur South
+['RJ-15']  Jaisalmer
+['RJ-16']  Jalore
+['RJ-17']  Jhalawar
+['RJ-18']  Jhunjhunu
+['RJ-19']  Jodhpur
+['RJ-20']  Kota
+['RJ-21']  Nagaur
+['RJ-22']  Pali
+['RJ-23']  Sikar
+['RJ-24']  Sirohi
+['RJ-25']  Sawai Madhopur
+['RJ-26']  Tonk
+['RJ-27']  UDAIPUR-1
+['RJ-28']  Baran
+['RJ-29']  Dausa
+['RJ-30']  Rajsamand
+['RJ-31']  Hanumangarh
+['RJ-32']  Kotputli (Jaipur)
+['RJ-33']  Ramganj Mandi (Kota)
+['RJ-34']  Karauli
+['RJ-35']  Pratapgarh
+['RJ-36']  Beawar (Ajmer)
+['RJ-37']  Didwana (Nagaur)
+['RJ-38']  Abu Road (Sirohi)
+['RJ-39']  Balotra (Barmer)
+['RJ-40']  Bhiwadi (Alwar)
+['RJ-41']  Rambaag
+['RJ-42']  Kishangarh (Ajmer)
+['RJ-43']  Phalodi (Jodhpur)
+['RJ-44']  Sujangarh (Churu)
+['RJ-45']  Jaipur North
+['RJ-46']  Bhinmal (Jalore)
+['RJ-47']  Dudu (Jaipur)
+['RJ-48']  Kekri (Ajmer)
+['RJ-49']  Nohar (Hanumangarh)
+['RJ-50']  Nokha (Bikaner)
+['RJ-51']  Shahpura (Bhilwara)
+['RJ-59']  Shahpura (Jaipur)
+['TN-01']  Chennai Central
+['TN-02']  Chennai Anna Nagar
+['TN-03']  Chennai Tondiarpet
+['TN-04']  Chennai Royapuram
+['TN-05']  Chennai Kolathur
+['TN-06']  Chennai Mandavelli
+['TN-07']  Chennai Tiruvanmiyur
+['TN-09']  Chennai West & South East (K. K. Nagar)
+['TN-10']  Chennai South West (Virugambakkam)
+['TN-11']  Chennai Suburban South (Tambaram)
+['TN-12']  Chennai Suburban (Poonamallee)
+['TN-13']  Chennai Suburban North Central (Ambattur)
+['TN-14']  Chennai Suburban South East Sholinganallur
+['TN-15']  Ulundurpet
+['TN-15Z']  Kallakurichi
+['TN-16']  Tindivanam
+['TN-16Z']  Gingee
+['TN-18']  Chennai Suburban North (Red Hills
+['TN-18Y']  Gummidipoondi)
+['TN-19']  Chengalpattu
+['TN-20']  Tiruvallur
+['TN-20X']  Thiruthani
+['TN-21']  Kanchipuram
+['TN-22']  Chennai Alandur
+['TN-23']  Vellore
+['TN-23T']  Gudiyatham
+['TN-24']  Krishnagiri
+['TN-25']  Thiruvannamalai District
+['TN-27']  Salem District (Not In Use)
+['TN-28']  Namakkal North
+['TN-29']  Dharmapuri
+['TN-30']  Salem West
+['TN-30W']  Omalur
+['TN-31']  Cuddalore
+['TN-31Z']  Panruti
+['TN-32']  Villupuram
+['TN-33']  Erode East
+['TN-34']  Thiruchengode
+['TN-36']  Gobichettipalayam
+['TN-36W']  Bhavani
+['TN-36Z']  Sathyamangalam
+['TN-37']  Coimbatore South
+['TN-37Z']  Sulur
+['TN-38']  Coimbatore North
+['TN-39']  Tirupur
+['TN-39Z']  Avinashi
+['TN-40']  Mettupalayam
+['TN-41']  Pollachi
+['TN-41W']  Valparai
+['TN-42']  Tirupur South
+['TN-42Y']  Kangayam
+['TN-43']  Ooty
+['TN-45']  Tiruchirapalli East
+['TN-45Z']  Manaparai
+['TN-46']  Perambalur
+['TN-47']  Karur
+['TN-48']  Srirangam
+['TN-48X']  Lalgudi
+['TN-48Z']  Thuraiyur
+['TN-49']  Thanjavur
+['TN-50']  Tiruvarur
+['TN-50Z']  Mannargudi
+['TN-51']  Nagapattinam
+['TN-52']  Sankagiri
+['TN-54']  Salem East
+['TN-55']  Pudukottai
+['TN-56']  Perundurai
+['TN-57']  Dindigul
+['TN-58']  Madurai South
+['TN-59']  Madurai North
+['TN-60']  Theni
+['TN-61']  Ariyalur
+['TN-63']  Sivaganga district
+['TN-63Z']  Karaikudi
+['TN-64']  Madurai Central
+['TN-65']  Ramanathapuram
+['TN-66']  Coimbatore Central
+['TN-67']  Virudhunagar
+['TN-67W']  Aruppukottai
+['TN-68']  Kumbakonam
+['TN-69']  Thoothukudi
+['TN-70']  Hosur
+['TN-72']  Tirunelveli
+['TN-73']  Ranipet
+['TN-73Z']  Arakkonam
+['TN-74']  Nagercoil
+['TN-75']  Marthandam
+['TN-76']  Tenkasi
+['TN-77']  Attur
+['TN-77Z']  Valapadi
+['TN-78']  Dharapuram
+['TN-78Z']  Udumalpet
+['TN-79']  Sankarankovil
+['TN-81']  Tiruchirapalli East
+['TN-82']  Mayiladuthurai
+['TN-82Z']  Sirkazhi
+['TN-83']  Vaniyambadi
+['TN-83Z']  Ambur
+['TN-84']  Srivilliputhur
+['TN-85']  Chennai Manapakkam
+['TN-86']  Erode West
+['TN-87']  Sriperumbudur
+['TN-88']  Namakkal South
+['TN-88Z']  Paramathi Velur
+['TN-90']  Salem South
+['TN-91']  Chidambaram
+['TN-91Y']  Neyveli
+['TN-91Z']  Virudhachalam
+['TN-92']  Thiruchendur
+['TN-93']  Mettur
+['TN-94']  Palani
+['TN-95']  Sivakasi
+['TN-96']  Kovilpatti
+['TN-99']  Coimbatore – West
+['TS-01']  Adilabad
+['TS-02']  Karimnagar
+['TS-03']  Warangal
+['TS-04']  Khammam
+['TS-05']  Nalgonda
+['TS-06']  Mahbubnagar
+['TS-07']  Ranga Reddy
+['TS-08']  Medchal
+['TS-09']  Hyderabad Central (Khairtabad)
+['TS-10']  Hyderabad North (Secunderabad)
+['TS-11']  Hyderabad East (Malakpet)
+['TS-12']  Hyderabad South (Kishanbagh)
+['TS-13']  Hyderabad West (Tolichowki)
+['TS-14']  Hyderabad (reserved)
+['TS-15']  Sangareddy
+['TS-16']  Nizamabad
+['TS-17']  Kamareddy
+['TS-18']  Nirmal
+['TS-19']  Mancherial
+['TS-20']  Asifabad (Komaram Bheem)
+['TS-21']  Jagtial
+['TS-22']  Peddapalli
+['TS-23']  Sircilla
+['TS-24']  Warangal (rural)
+['TS-25']  Jayashankar
+['TS-26']  Mahabubabad
+['TS-27']  Jangaon
+['TS-28']  Bhadradri
+['TS-29']  Suryapet
+['TS-30']  Yadadri
+['TS-31']  Nagarkurnool
+['TS-32']  Wanaparthy
+['TS-33']  Gadwal
+['TS-34']  Vikarabad
+['TS-35']  Medak
+['TS-36']  Siddipet
+['TS XX A 1234 to TS XX SZ 1234']  The letters A to S are reserved to passenger vehicles.
+['TS-09-Px : TS 09 PA 1234', 'TS 09 PB 1234']  TS-09-P of Hyderabad Central RTO is specifically used for Telangana Police vehicles.
+['TS XX T 1234 to TS XX YZ 1234']  The letters T, U, V, W, X, Y are reserved for commercial vehicles.
+['TS-xx-Z : TS XX Z 1234 to TS XX ZZ 1234']  The letter Z is reserved for the State Road Transport (TSRTC) buses.
+['TR-01']  Agartala
+['TR-02']  Kailasahar
+['TR-03']  Udaipur
+['TR-04']  Ambassa
+['TR-05']  Dharmanagar
+['TR-06']  Khowai
+['TR-07']  Sepahijala
+['TR-08']  Santirbazar
+['UP-01']  Almora (now in Uttarakhand, not in use since November 2000)
+['UP-02']  Nainital (now in Uttarakhand, not in use since November 2000)
+['UP-03']  Pithoragarh (now in Uttarakhand, not in use since November 2000)
+['UP-04']  Rudrapur (now in Uttarakhand, not in use since November 2000)
+['UP-05']  Chamoli Gopeshwar (now in Uttarakhand, not in use since November 2000)
+['UP-06']  Pauri (now in Uttarakhand, not in use since November 2000)
+['UP-07']  Dehradun (now in Uttarakhand, not in use since November 2000)
+['UP-08']  Tehri (now in Uttarakhand, not in use since November 2000)
+['UP-09']  Uttarkashi (now in Uttarakhand, not in use since November 2000)
+['UP-10']  Haridwar (now in Uttarakhand, not in use since November 2000)
+['UP-11']  Saharanpur
+['UP-12']  Muzaffarnagar
+['UP-13']  Bulandshahar
+['UP-14']  Ghaziabad
+['UP-15']  Meerut
+['UP-16']  Gautam Budh Nagar/Noida
+['UP-17']  Baghpat
+['UP-19']  Shamli
+['UP-20']  Bijnor
+['UP-21']  Moradabad
+['UP-22']  Rampur (22G for government vehices, 22T for commercial vehicles)
+['UP-23']  Amroha
+['UP-24']  Badaun
+['UP-25']  Bareilly
+['UP-26']  Pilibhit
+['UP-27']  Shahjahanpur
+['UP-28']  Ayodhya
+['UP-30']  Hardoi
+['UP-31']  Lakhimpur Kheri
+['UP-32']  Lucknow
+['UP-33']  Raebareli
+['UP-34']  Sitapur
+['UP-35']  Unnao
+['UP-36']  Amethi
+['UP-37']  Hapur
+['UP-38']  Sambhal district
+['UP-40']  Bahraich
+['UP-41']  Barabanki
+['UP-42']  Faizabad
+['UP-43']  Gonda
+['UP-44']  Sultanpur
+['UP-45']  Ambedkar Nagar
+['UP-46']  Shravasti
+['UP-47']  Balrampur
+['UP-50']  Azamgarh
+['UP-51']  Basti
+['UP-52']  Deoria
+['UP-53']  Gorakhpur
+['UP-54']  Mau
+['UP-55']  Siddharth Nagar
+['UP-56']  Maharajganj
+['UP-57']  Kushinagar
+['UP-58']  Sant Kabir Nagar
+['UP-60']  Ballia
+['UP-61']  Ghazipur
+['UP-62']  Jaunpur
+['UP-63']  Mirzapur
+['UP-64']  Sonbhadra
+['UP-65']  Varanasi
+['UP-66']  Bhadohi
+['UP-67']  Chandauli
+['UP-70']  Allahabad
+['UP-71']  Fatehpur
+['UP-72']  Pratapgarh
+['UP-73']  Kaushambi
+['UP-74']  Kannauj
+['UP-75']  Etawah
+['UP-76']  Farrukhabad
+['UP-77']  Kanpur Dehat (rural)
+['UP-78']  Kanpur Nagar (urban)
+['UP-79']  Auraiya
+['UP-80']  Agra
+['UP-81']  Aligarh
+['UP-82']  Etah
+['UP-83']  Firozabad
+['UP-84']  Mainpuri
+['UP-85']  Mathura
+['UP-86']  Hathras
+['UP-87']  Kasganj
+['UP-90']  Banda
+['UP-91']  Hamirpur
+['UP-92']  Jalaun
+['UP-93']  Jhansi
+['UP-94']  Lalitpur
+['UP-95']  Mahoba
+['UP-96']  Chitrakoot
+['UK-01']  Almora district
+['UK-02']  Bageshwar district
+['UK-03']  Champawat district
+['UK-04']  Nainital district
+['UK-05']  Pithoragarh district
+['UK-06']  Udham Singh Nagar district
+['UK-07']  Dehradun district
+['UK-08']  Haridwar district
+['UK-09']  Tehri Garhwal district
+['UK-10']  Uttarkashi district
+['UK-11']  Chamoli district
+['UK-12']  Pauri Garhwal district
+['UK-13']  Rudraprayag district
+['UK-15']  Pauri Garhwal district
+['UK-16']  Dehradun district
+['UK-17']  Haridwar district
+['UK-18']  Udham Singh Nagar district
+['WB-01']  Kolkata (Two Wheelers)
+['WB-02']  Kolkata (Four Wheeler passenger vehicles)
+['WB-03']  Kolkata Beltala (commercial goods carriages)
+['WB-04']  Kolkata Beltala (commercial passenger vehicles)
+['WB-05']  Kolkata Kasba (commercial vehicles)
+['WB-06']  Kolkata Kasba (private vehicles (from WB-06K); however, from WB-06 till WB-06J registered in Beltala RTO as private four-wheelers)
+['WB-07']  Kolkata Salt Lake (commercial vehicles (from WB-07J); however, from WB-07 till WB-07H registered in Beltala RTO as two-wheelers)
+['WB-08']  Kolkata Salt Lake (private vehicles)
+['WB-09']  Kolkata New Town (commercial vehicles)
+['WB-10']  Kolkata New Town (private vehicles)
+['WB-11']  Howrah
+['WB-12']  Howrah
+['WB-13']  Uluberia (transport vehicles)
+['WB-14']  Uluberia (private vehicles)
+Two-wheelers registered under Howrah RTO from WB-14E till WB-14L.
+['WB-15']  Hugli-Chuchura
+['WB-16']  Hugli-Chuchura
+['WB-17']  Hooghly Srirampur
+['WB-18']  Hooghly Srirampur (private vehicles from 18 K onwards; however from WB-18 till WB-18G registered in Hugli-Chuchura RTO as private vehicles)
+['WB-19']  Alipore
+['WB-20']  Alipore (private vehicles)
+['WB-21']  YTB
+['WB-22']  (* yet to be allotted *) (however WB-22, WB-22U registered in Alipore RTO as private vehicles)
+['WB-23']  Barrackpore (transport vehicles)
+['WB-24']  Barrackpore (private vehicles)
+['WB-25']  Barasat (transport vehicles)
+['WB-26']  Barasat (private vehicles)
+['WB-27']  Bangaon (transport vehicles)
+['WB-28']  Bangaon (private vehicles)
+['WB-29']  Tamluk (transport vehicles)
+['WB-30']  Tamluk (private vehicles)
+['WB-31']  Contai (transport vehicles)
+['WB-32']  Contai (private vehicles)
+['WB-33']  Midnapur (transport vehicles)
+['WB-34']  Midnapur (private vehicles)
+['WB-35']  YTB
+['WB-36']  Midnapur (private vehicles)
+['WB-37']  Asansol (transport vehicles)
+['WB-38']  Asansol (private vehicles)
+The series of WB-38 A #### to WB-38 Z #### has finished. Thereafter WB-44 A #### was started and ran up to WB-44 D ####. Currently WB-38 AA #### has been put to use instead of WB-44.
+['WB-39']  Durgapur (transport vehicles; also all SBSTC buses are registered in this RTO)
+['WB-40']  Durgapur (private vehicles)
+['WB-41']  Burdwan (transport vehicles)
+['WB-42']  Burdwan (private vehicles)
+['WB-43']  Kalna (transport vehicles)
+['WB-44']  WB-44 – WB-44D : Asansol (private vehicles), thereafter WB-38AA has started
+WB-44E – … : Kalna (private vehicles)
+
+['WB-45']  YTB
+['WB-46']  YTB
+['WB-47']  Bolpur (transport vehicles)
+['WB-48']  Bolpur (private vehicles)
+['WB-49']  Jhargram (transport vehicles)
+['WB-50']  Jhargram (private vehicles)
+['WB-51']  krishnanagar (transport vehicles)
+['WB-52']  krishnanagar (other than transport vehicles)
+['WB-53']  Birbhum (transport vehicles)
+['WB-54']  Birbhum (other than transport vehicles)
+['WB-55']  Purulia (transport vehicles)
+['WB-56']  Purulia (other than transport vehicles)
+['WB-57']  Murshidabad (transport vehicles)
+['WB-58']  Murshidabad (other than transport vehicles)
+['WB-59']  Raiganj (transport vehicles)
+['WB-60']  Raiganj (other than transport vehicles)
+['WB-61']  Balurghat (transport vehicles)
+['WB-62']  Balurghat (other than transport vehicles)
+['WB-63']  Cooch Behar (transport vehicles; all NBSTC buses are also registered from this RTO)
+['WB-64']  Cooch Behar (other than transport vehicles)
+['WB-65']  Malda (transport vehicles)
+['WB-66']  Malda (other than transport vehicles)
+['WB-67']  Bankura (transport vehicles)
+['WB-68']  Bankura (other than transport vehicles)
+['WB-69']  Alipurduar (transport vehicles)
+['WB-70']  Alipurduar (other than transport vehicles)
+['WB-71']  Jalpaiguri (transport vehicles)
+['WB-72']  Jalpaiguri (other than transport vehicles)
+['WB-73']  Siliguri (transport vehicles)
+['WB-74']  Siliguri (other than transport vehicles)
+['WB-75']  YTB
+['WB-76']  Darjeeling (transport vehicles)
+['WB-77']  Darjeeling (other than transport vehicles)
+['WB-78']  Kalimpong (transport vehicles)
+['WB-79']  Kalimpong (other than transport vehicles)
+['WB-80']  YTB
+['WB-81']  YTB
+['WB-82']  Raghunathpur (transport vehicles)
+['WB-83']  YTB
+['WB-84']  YTB
+['WB-85']  Mathabhanga RTO (all commercial vehicle)
+['WB-86']  Mathabhanga RTO (other than transport, both two and four wheeler)
+['WB-87']  YTB
+['WB-88']  YTB
+['WB-89']  Kalyani (transport vehicles)
+['WB-90']  Kalyani (private vehicles)
+['WB-91']  Islampur (commercial vehicles)
+['WB-92']  Islampur (private vehicles)
+['WB-93']  Jangipur, West Bengal)(Murshidabad District) (Commercial Vehicle)
+['WB-94']  Jangipur, West Bengal] (Murshidabad) (transport vehicles)(Private Vehicle)
+['WB-95']  YTB
+['WB-96']  Baruipur (private vehicles)
+
+Process finished with exit code 0
